@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me:<br>
-  :email: vaagner.kuntz@gmail.com
+  :email: vaagner.kuntz@gmail.com<br>
   :iphone: +55 45 9 9838 3470 
