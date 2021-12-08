@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **vagnerkuntz/vagnerkuntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me:<br>
+- 📫 Como me encontrar:<br>
   :email: vaagner.kuntz@gmail.com<br>
   :iphone: +55 45 9 9838 3470 
