@@ -1,10 +1,6 @@
 ### Olá, 👋 Um pouco sobre mim  
-Engenheiro de Software formado pelo Centro Universitário Assis Gurgacz.  
+Engenheiro de Software.  
  
-<a href="https://wa.me/5545998383470">
-  <img src=https://img.shields.io/badge/WhatsApp-%2B55%2045%209%209838%203470%20-brightgreen />
-</a>
-
 <br />
 
 <a href="https://linkedin.com/in/vagnerkuntz" target="_blank">
